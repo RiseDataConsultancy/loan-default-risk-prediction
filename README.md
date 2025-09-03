@@ -114,9 +114,6 @@ Our **Loan Default Prediction System** uses **machine learning techniques** to:
 - **Explainable AI (XAI)** dashboards for risk justification
 - **Deployment on Cloud (AWS, GCP, Azure)** for scalable production use
 - **Integration with Core Banking Systems** for seamless operations
-  
-## 📜 License
-This solution is available under the [MIT License](LICENSE).
 
 ---
 
